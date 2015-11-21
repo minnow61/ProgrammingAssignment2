@@ -38,7 +38,7 @@ cacheSolve <- function(x, ...) {
                 return(inversevector)
         }
         
-        # load into a matrix
+        # load into a matrix 
         m <- x$get()
         
         # get the inverse
